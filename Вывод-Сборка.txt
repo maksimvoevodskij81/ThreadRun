@@ -1,0 +1,4 @@
+﻿1>------ Сборка начата: проект: threadRace2, Конфигурация: Debug Any CPU ------
+1>D:\repos\threadRace2\threadRace2\Form1.cs(105,17,105,18): warning CS0414: Полю "Form1.Hero.i" присвоено значение, но оно ни разу не использовано.
+1>  threadRace2 -> D:\repos\threadRace2\threadRace2\bin\Debug\threadRace2.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
